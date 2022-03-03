@@ -1,0 +1,23 @@
+
+{
+  "projectId": "iivift",
+  "env" :{
+    "qaEnv": "http://automationpractice.com/index.php"
+  },
+  "User": {
+    "admin" : {
+      "username": "rahee1",
+      "password": "rahee2"
+    },
+    "employee": {
+      "username": "rahee3",
+      "password": "rahee4"
+    }
+  }
+ 
+} 
+  
+  
+
+
+
